@@ -1,6 +1,6 @@
 # Admissions
 
-Here are two of my independent programming projects.
+Here are two of my independent programming projects I speak about in my application.
 
 Inside each folder is the source code for each program written in C++. Additionally inside the folder is a subfolder "Binaries" that contains the executable version built for Windows computers.
 
