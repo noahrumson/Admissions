@@ -12,4 +12,4 @@ I included all of the code along with the Microsoft Visual Studio project file s
 
 Connect Four/AI.cpp, Derivatizor/simplify.cpp
 
-And of course I would recommend running the executable files under the "Binaries" folder to see what the finished product looks like.
+And of course I would recommend running the executable files under the "Binaries" folder to see what the finished product looks like. To run it, the entire "Binaries" folder should be downloaded and run on a Windows computer.
