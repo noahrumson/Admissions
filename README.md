@@ -10,7 +10,6 @@ Derivatizor is a command line program that takes a function of one variable and 
 
 I included all of the code along with the Microsoft Visual Studio project file so that the source code could be compiled directly from this repository. I understand that I have included a lot, so for the sake of speed the most important source code files I would recommend the admissions department review are:
 
-Connect Four/AI.cpp
-Derivatizor/simplify.cpp
+Connect Four/AI.cpp, Derivatizor/simplify.cpp
 
 And of course I would recommend running the executable files under the "Binaries" folder to see what the finished product looks like.
