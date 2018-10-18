@@ -154,7 +154,7 @@ private:
 template<class T>
 class FunctionComponentImpl : 
 	public FunctionComponent, 
-	protected std::enable_shared_from_this<T>
+	public std::enable_shared_from_this<T>
 {
 public:
 	void* operator new(std::size_t size);
