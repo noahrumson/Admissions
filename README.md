@@ -1,4 +1,4 @@
-# Admissions
+# Sample
 
 Here are two of my hobby programming projects.
 
